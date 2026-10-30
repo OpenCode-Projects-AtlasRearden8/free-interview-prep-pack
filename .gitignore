@@ -5,5 +5,7 @@
 .env.*
 .pytest_cache/
 .venv/
-printables/html/
 __pycache__/
+dist/*.tmp
+node_modules/
+printables/html/
