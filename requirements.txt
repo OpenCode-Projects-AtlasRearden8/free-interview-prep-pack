@@ -1,0 +1,5 @@
+# Everything the build script and the tests need, on your own computer.
+#   pip install -r requirements.txt
+weasyprint>=62          # turns the HTML templates into polished PDFs
+pypdf>=4                # used to report page counts and check the PDFs
+pytest>=8               # runs the tests in tests/

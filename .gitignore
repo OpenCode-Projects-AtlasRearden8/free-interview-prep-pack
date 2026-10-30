@@ -1,0 +1,9 @@
+# Python and test artifacts
+*.py[cod]
+*.pyc
+.env
+.env.*
+.pytest_cache/
+.venv/
+printables/html/
+__pycache__/
